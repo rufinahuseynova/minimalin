@@ -1,0 +1,16 @@
+/* FilterBar.css */
+.filter-bar {
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+  }
+  
+  .filter-bar h3 {
+    margin: 10px 0;
+  }
+  
+  .filter-bar div {
+    margin-bottom: 10px;
+  }
+  
+      

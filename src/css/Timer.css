@@ -1,0 +1,49 @@
+.cardStyle{
+align-items: center;
+width: 80px;
+height: 80px;
+background-color: #fff;
+border-radius: 5px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+.timeStyle{
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.labelStyle{
+    font-size: 16px;
+    color: #555;
+    font-weight: 400;
+}
+.timer{
+    display: flex;
+    background-color: #ebebeb;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.timer h2{
+font-size: 3.5rem;
+}
+.timer p{
+    font-size: 1rem;
+}
+.texts{
+    text-align: center;
+}
+.glasses{
+    width: 570px;
+    height: 600px;
+    margin-top: 20px;
+    display: flex;
+}
+.counter{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}

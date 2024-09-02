@@ -1,0 +1,31 @@
+.ic{
+    color: black;
+}
+ .search-bar-container {
+    position: absolute;
+  }
+  .search-icon-button {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    display: flex; 
+    padding: 7px;
+   }
+  .search-input {
+    position: relative;
+    right:  220px;
+    top: 20px;
+    font-size: 1rem;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  } 
+  .search-input:focus{
+    border: none;
+  }
+
+
+  
+  

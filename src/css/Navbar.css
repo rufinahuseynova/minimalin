@@ -1,0 +1,33 @@
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.nav-icons{
+    font-size: 1.3rem;
+    display: flex;
+}
+.navi{
+    text-decoration: none;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+    font-size: 16px;
+    color: #222222;
+}
+.navi:hover{
+    color: #0a85d1;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+
+}
+.navigations{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

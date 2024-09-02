@@ -1,0 +1,30 @@
+.instagram-slider {
+    text-align: center;
+    margin: 30px;
+    margin-bottom: 70px;
+  }
+  
+  .instagram-slider h2 {
+    margin: 0 auto;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    font-weight: 500;
+  }
+  
+  .instagram-slider p {
+    font-size: 1rem;
+    color: #777;
+    margin-bottom: 40px;
+  }
+  
+  .slide-item img {
+    width:100%;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+
+  }
+  
+  .slide-item img:hover {
+    transform: scale(1.05);
+  }
+ 

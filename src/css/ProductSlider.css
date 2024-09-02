@@ -1,0 +1,26 @@
+.featured-slider {
+    width: 75%;
+    margin: 0 auto;
+    background-color: white;
+  }
+  .slick-slide {
+    padding: 10px;
+  }
+  .slick-prev, .slick-next {
+    z-index: 1;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .slick-prev {
+    left: -25px;
+  }
+  .slick-next {
+    right: -25px;
+  }
+.f-heading{
+  margin: 0 auto;
+  width: 300px;
+  margin-top: 80px;
+  margin-bottom: 30px;
+  font-weight: 500;
+}
